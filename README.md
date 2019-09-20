@@ -9,11 +9,11 @@ it keeps walking forward.
 and it eats food to regen its health!
 
 <h1>Setup</h1>
-This Bot is written In Python3 make sure that you have ir installed
+This Bot is written In Python3 make sure that you have it installed
 
 This bot (as of now) uses 1 library which is pynput (without the "I")
 
-you'll need to install it in order for the bit to work!
+you'll need to install it in order for the bot to work!
 
 on windows you can install it by typing
 
