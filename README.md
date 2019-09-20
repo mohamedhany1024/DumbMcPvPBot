@@ -8,7 +8,7 @@ it keeps walking forward.
 , it keepx attacking players
 and it eats food to regen its health!
 
-#Setup
+<h1>Setup</h1>
 This Bot is written In Python3 make sure that you have ir installed
 
 This bot (as of now) uses 1 library which is pynput (without the "I")
