@@ -1,11 +1,11 @@
 # DumbMcPvPBot
 a very very dumb Mc PvP bot written in Python
 
-This ia a Very dumb Minecrat PvP bot That Runs In python
+This ia an Attempt to Make A Program That Fights In Minecraft(A Video Game)
 
 It Does 2 Things....3 actually
 it keeps walking forward.
-, it keepx attacking players
+, it keeps attacking players
 and it eats food to regen its health!
 
 <h1>Setup</h1>
