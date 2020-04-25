@@ -28,7 +28,7 @@ so to install pynput you'll have to type
 pip3 install pynput
 ```
 Now Open minecraft and put your sword in your first hotbar slot, Then 
-place your food of choice in ur second hotbar slot
+place your food of choice in your second hotbar slot
 
 now Now run the bot and switch back to your minecraft window and resume the game
 the bot will start in 3 seconds
