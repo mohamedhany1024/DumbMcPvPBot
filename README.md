@@ -17,9 +17,9 @@ you'll need to install it in order for the bot to work!
 
 on windows you can install it by typing
 
-'''
+```
 pip install pynput
-'''
+```
 in a cmd window
 
 If you are on a linux disto. Your distro might have both python2 and 3 pre-installed
